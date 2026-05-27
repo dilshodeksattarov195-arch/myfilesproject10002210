@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databaseptringify",
+        "uuid": 7487480,
+        "checksum": "olexsj"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
